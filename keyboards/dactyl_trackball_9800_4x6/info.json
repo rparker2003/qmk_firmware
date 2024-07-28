@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "dactyl trackball",
+    "manufacturer": "Ryan Parker",
+    "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/dactyl_trackball_9800_4x6",
+    "usb": {
+        "device_version": "0.0.1",
+        "vid": "0x444D",
+      "pid": "0x3536"
+   },
+    "processor": "atmega32u4",
+    "bootloader": "atmel-dfu"
+}
