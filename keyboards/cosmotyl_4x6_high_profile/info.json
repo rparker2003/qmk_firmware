@@ -1,7 +1,7 @@
 {
-    "name": "dactyl trackball",
+    "name": "cosmotyl high profile",
     "manufacturer": "Ryan Parker",
-    "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/dactyl_trackball_9800_4x6",
+    "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/cosmotyl_4x6_high_profile",
     "usb": {
         "device_version": "0.0.1",
         "vid": "0x444D",
