@@ -4,15 +4,15 @@
     "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/cosmotyl_5thumb",
     "maintainer": "rparker2003",
     "usb": {
-        "vid": "0x444D",
-        "pid": "0x3536",
+        "vid": "0x5250",
+        "pid": "0x0003",
         "device_version": "0.0.1"
     },
     "features": {
         "bootmagic": false,
         "extrakey": true,
         "mousekey": false,
-        "nkro": true,
+        "nkro": true
     },
     "qmk": {
         "locking": {
@@ -86,9 +86,9 @@
                 {"matrix": [4, 4], "x": 4, "y": 4},
                 {"matrix": [4, 5], "x": 5, "y": 4},
 
-                {"matrix": [9, 3], "x": 14, "y": 4},
-                {"matrix": [9, 4], "x": 15, "y": 4},
+                {"matrix": [9, 0], "x": 12, "y": 4},
+                {"matrix": [9, 1], "x": 13, "y": 4}
             ]
         }
-    },
+    }
 }
