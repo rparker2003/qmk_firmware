@@ -20,6 +20,18 @@
             "resync": false
         }
     },
+    "matrix_pins": {
+        "cols": ["GP7", "GP6", "GP5", "GP4", "GP3", "GP2"],
+        "rows": ["GP28", "GP27", "GP26", "GP22", "GP20"]
+    },
+    "diode_direction": "COL2ROW",
+    "split": {
+        "enabled": true,
+        "serial": {
+            "driver": "vendor",
+            "pin": "GP0"
+        }
+    },
     "processor": "RP2040",
     "bootloader": "rp2040",
     "layouts": {
