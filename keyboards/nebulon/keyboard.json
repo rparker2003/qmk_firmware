@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "cosmotyl 5 thumb",
+    "keyboard_name": "nebulon,
     "manufacturer": "rparker2003",
-    "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/cosmotyl_5thumb",
+    "url": "https://github.com/rparker2003/qmk_firmware/tree/master/keyboards/nebulon",
     "maintainer": "rparker2003",
     "usb": {
         "vid": "0x5250",
